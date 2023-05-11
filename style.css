@@ -1,0 +1,37 @@
+/* additional CSS styling sheet (separate to framework) */
+
+body {
+    background: linear-gradient(0, #edf0f1 0%, #3876a0 100%);
+    text-align: center;
+  }
+
+  .title {
+    font-weight:100;
+    font-size: 50px;
+    font-style: serif;
+    
+
+  }
+  .openNav {
+    align-items: flex-start;
+    align-content: flex-start;
+  }
+  #search {
+    position: fixed;
+    left: 0%;
+  }
+  
+ 
+  select {
+    max-width: 50%;
+    text-align: center; 
+  }
+
+  
+
+ 
+
+  
+  
+  
+
